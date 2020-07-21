@@ -1,4 +1,7 @@
-### Hi there 👋
+### pascade system loading...
+### error [1] code 3362.
+### error [2] code 3382.
+### .......
 
 <!--
 **RyuZUSUNC/RyuZUSUNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
