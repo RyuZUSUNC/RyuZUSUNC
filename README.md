@@ -1,4 +1,4 @@
-# Need More Poooooower!!!
+# I Need More Poooooower!!!
 
 <!--
 **RyuZUSUNC/RyuZUSUNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
